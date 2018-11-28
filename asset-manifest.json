@@ -1,14 +1,14 @@
 {
-  "main.css": "/baseballmk8/static/css/main.4ec6270b.chunk.css",
-  "main.js": "/baseballmk8/static/js/main.fcbcf75a.chunk.js",
-  "main.js.map": "/baseballmk8/static/js/main.fcbcf75a.chunk.js.map",
-  "static/js/1.83ae780d.chunk.js": "/baseballmk8/static/js/1.83ae780d.chunk.js",
-  "static/js/1.83ae780d.chunk.js.map": "/baseballmk8/static/js/1.83ae780d.chunk.js.map",
-  "runtime~main.js": "/baseballmk8/static/js/runtime~main.8e39f108.js",
-  "runtime~main.js.map": "/baseballmk8/static/js/runtime~main.8e39f108.js.map",
-  "static/media/logo.svg": "/baseballmk8/static/media/logo.5d5d9eef.svg",
-  "static/css/main.4ec6270b.chunk.css.map": "/baseballmk8/static/css/main.4ec6270b.chunk.css.map",
-  "index.html": "/baseballmk8/index.html",
-  "precache-manifest.aaf9eb7295d0237dae5582a6b3d403b5.js": "/baseballmk8/precache-manifest.aaf9eb7295d0237dae5582a6b3d403b5.js",
-  "service-worker.js": "/baseballmk8/service-worker.js"
+  "main.css": "/baseballmk6/static/css/main.6ac40aec.chunk.css",
+  "main.js": "/baseballmk6/static/js/main.857d9d92.chunk.js",
+  "main.js.map": "/baseballmk6/static/js/main.857d9d92.chunk.js.map",
+  "static/js/1.357d371c.chunk.js": "/baseballmk6/static/js/1.357d371c.chunk.js",
+  "static/js/1.357d371c.chunk.js.map": "/baseballmk6/static/js/1.357d371c.chunk.js.map",
+  "runtime~main.js": "/baseballmk6/static/js/runtime~main.8e95471e.js",
+  "runtime~main.js.map": "/baseballmk6/static/js/runtime~main.8e95471e.js.map",
+  "static/media/logo.svg": "/baseballmk6/static/media/logo.5d5d9eef.svg",
+  "static/css/main.6ac40aec.chunk.css.map": "/baseballmk6/static/css/main.6ac40aec.chunk.css.map",
+  "index.html": "/baseballmk6/index.html",
+  "precache-manifest.a64a53e9e96ef3d8871850ee69ef6fec.js": "/baseballmk6/precache-manifest.a64a53e9e96ef3d8871850ee69ef6fec.js",
+  "service-worker.js": "/baseballmk6/service-worker.js"
 }
