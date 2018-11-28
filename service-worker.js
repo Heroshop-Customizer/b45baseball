@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/baseballmk6/precache-manifest.57b993fcc8c5d36dcc6b55855206290d.js"
+  "/baseballmk6/precache-manifest.a64a53e9e96ef3d8871850ee69ef6fec.js"
 );
 
 workbox.clientsClaim();
