@@ -1,14 +1,14 @@
 {
-  "main.css": "/b45baseball1/static/css/main.adeeb817.chunk.css",
-  "main.js": "/b45baseball1/static/js/main.c9358b49.chunk.js",
-  "main.js.map": "/b45baseball1/static/js/main.c9358b49.chunk.js.map",
-  "static/js/1.27911214.chunk.js": "/b45baseball1/static/js/1.27911214.chunk.js",
-  "static/js/1.27911214.chunk.js.map": "/b45baseball1/static/js/1.27911214.chunk.js.map",
-  "runtime~main.js": "/b45baseball1/static/js/runtime~main.52770475.js",
-  "runtime~main.js.map": "/b45baseball1/static/js/runtime~main.52770475.js.map",
-  "static/media/logo.svg": "/b45baseball1/static/media/logo.5d5d9eef.svg",
-  "static/css/main.adeeb817.chunk.css.map": "/b45baseball1/static/css/main.adeeb817.chunk.css.map",
-  "index.html": "/b45baseball1/index.html",
-  "precache-manifest.bc86f95132c528bce959349bf59424a1.js": "/b45baseball1/precache-manifest.bc86f95132c528bce959349bf59424a1.js",
-  "service-worker.js": "/b45baseball1/service-worker.js"
+  "main.css": "/b45baseball/static/css/main.adeeb817.chunk.css",
+  "main.js": "/b45baseball/static/js/main.d4603134.chunk.js",
+  "main.js.map": "/b45baseball/static/js/main.d4603134.chunk.js.map",
+  "static/js/1.27911214.chunk.js": "/b45baseball/static/js/1.27911214.chunk.js",
+  "static/js/1.27911214.chunk.js.map": "/b45baseball/static/js/1.27911214.chunk.js.map",
+  "runtime~main.js": "/b45baseball/static/js/runtime~main.5450808f.js",
+  "runtime~main.js.map": "/b45baseball/static/js/runtime~main.5450808f.js.map",
+  "static/media/logo.svg": "/b45baseball/static/media/logo.5d5d9eef.svg",
+  "static/css/main.adeeb817.chunk.css.map": "/b45baseball/static/css/main.adeeb817.chunk.css.map",
+  "index.html": "/b45baseball/index.html",
+  "precache-manifest.0da20d2e30a26464a3613ac6091fc3f0.js": "/b45baseball/precache-manifest.0da20d2e30a26464a3613ac6091fc3f0.js",
+  "service-worker.js": "/b45baseball/service-worker.js"
 }
