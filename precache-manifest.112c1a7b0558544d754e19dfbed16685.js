@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/b45baseball/static/js/runtime~main.5450808f.js"
   },
   {
-    "revision": "6da51601ee0b54a9f60b",
-    "url": "/b45baseball/static/js/main.6da51601.chunk.js"
+    "revision": "8551e0914bdff1edd9fe",
+    "url": "/b45baseball/static/js/main.8551e091.chunk.js"
   },
   {
     "revision": "27911214926babd6d269",
     "url": "/b45baseball/static/js/1.27911214.chunk.js"
   },
   {
-    "revision": "6da51601ee0b54a9f60b",
-    "url": "/b45baseball/static/css/main.d3620f34.chunk.css"
+    "revision": "8551e0914bdff1edd9fe",
+    "url": "/b45baseball/static/css/main.0f324b08.chunk.css"
   },
   {
-    "revision": "afeeec7410f2ff4b3692256eca46dab1",
+    "revision": "d93f17457848d0f9a6fd89fb9b9d524e",
     "url": "/b45baseball/index.html"
   }
 ];
